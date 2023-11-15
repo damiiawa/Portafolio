@@ -175,6 +175,9 @@ body.dark-theme {
     
 }
 
+.perfilfoto {
+  border-radius: 100%;
+}
 
 .profile__border {
   border: 3.5px solid var(--first-color);
